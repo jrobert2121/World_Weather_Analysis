@@ -26,7 +26,7 @@ The final step was to utilize the WeatherPy_vacation.csv file to begin the creat
 
 The four city dataframes were then merged into one using the concat function.  The merged dataframe was then used to produce a travel map with markers that contained their weather data.
 
-![WeatherPy Travel Map with markers](Vacation_Itinerary\WeatherPy_travel_map_markers.png)
+![WeatherPy Travel Map with markers](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 
 
